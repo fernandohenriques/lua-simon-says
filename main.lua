@@ -11,5 +11,5 @@ require('src.makeRaibowTitle')
 
 display.setDefault("background",hex2rgb('#1b1a1a'))
 
-makeRaibowTitle(title, 105, 50)
-makeRaibowTitle(subtitle, 117, 100)
+makeRaibowTitle(title, 97, 50)
+makeRaibowTitle(subtitle, 112, 100)
